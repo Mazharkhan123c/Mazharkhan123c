@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **mazhariqbal.developer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_vhosDnPbIhoWiSUbUQ5gnjFx0ELMdnH/view?usp=drive_link](https://drive.google.com/file/d/1_vhosDnPbIhoWiSUbUQ5gnjFx0ELMdnH/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KvmGW0somzoGMAy5fu_f0xyuTQ6Z75O_/view?usp=sharing](https://drive.google.com/file/d/1KvmGW0somzoGMAy5fu_f0xyuTQ6Z75O_/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
