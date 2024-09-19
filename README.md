@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/uc?export=view&id=1miLHkeuK3vjRWRjW12DVQnTP1JqrYam1" alt="MasterHead" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
+<img src="https://i.imgur.com/XcGWXt9.png" alt="MasterHead" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
+
 <h1 align="center">Hi 👋, I'm Mazhar Iqbal</h1>
 <h3 align="center">A passionate Flutter Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*NgUtI3tYLhuq5Vy0.gif">
