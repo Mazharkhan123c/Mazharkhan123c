@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mazhariqbal.developer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KvmGW0somzoGMAy5fu_f0xyuTQ6Z75O_/view?usp=sharing](https://drive.google.com/file/d/1KvmGW0somzoGMAy5fu_f0xyuTQ6Z75O_/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1UqQrt3EK31iNIw0ahXeOD0wYOpjt1wuL/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
